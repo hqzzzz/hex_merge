@@ -1,3 +1,7 @@
 # 忽略所有 hex/bin 文件
 *.hex
 *.bin
+build/
+venv/
+__pycache__/
+
